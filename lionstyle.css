@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css?family=Do+Hyeon|Gaegu');
+body {
+	margin: 0;
+}
+nav{
+	height: 70px;
+	width: 100%;
+	background-color: white;
+}
+.container1 {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+h1 {
+	display: inline;
+	font-family: 'Do Hyeon', sans-serif;
+	color:skyblue;
+}
+
+.nav_a {
+	display: inline;
+	float: right;
+	font-family: 'Gaegu', cursive;
+	font-size: 15px;
+}
+header{
+	text-align: center;
+	background-size: cover;
+	height: 600px;
+	width:100%;
+	background-image: url('http://nimage.globaleconomic.co.kr/imagesphp/59/2017092913100807759e8b8a793f712114162187.jpg');
+}
+h2{
+	font-family: 'Do Hyeon', sans-serif;
+	color:blue;
+	font-size: 60px;
+	text-align: center;
+}
+.header_p{
+	font-family: 'Gaegu', cursive;
+	text-align: center;
+	font-size: 18px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+section{
+	background-color: skyblue;
+	text-align: center;
+	width:100%;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+article{
+	margin-top: 10px;
+	display: inline-block;
+	width:310px;
+	height: 400px;
+	margin: 3px;
+}
+article p{
+	font-family: 'Gaegu', cursive;
+	display: inline-block;
+	text-align: center;
+	color:black;
+	font-size: 15px;
+}
+footer{
+	width:100%; 
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.footer_p{
+	line-height: 25px;
+	font-size: 15px;
+}
